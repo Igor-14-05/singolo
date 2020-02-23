@@ -1,0 +1,288 @@
+.header{
+	width: 1020px;
+    height: 89px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #2d303a;
+}
+.headerbottom{
+	width: 1020px;
+	height: 6px;
+	margin-right: auto;
+    margin-left: auto;
+	background-color: #323746;
+}
+.bg{
+	width: 1020px;
+	height: 600px;
+	margin-right: auto;
+    margin-left: auto;
+	background-color: #f06c64;
+}
+.bgbottom{
+	width: 1020px;
+    height: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #ea676b;
+}
+.bgwhite{
+	width: 1020px;
+    height: 495px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #f2f2f2;
+}
+.bgbottomwhite{
+	width: 1020px;
+	height: 6px;
+	margin-right: auto;
+    margin-left: auto;
+	background-color: #ffffff;
+}
+.singolo{
+	font-size: 24px;
+	line-height: 6px;
+	color: #ffffff;
+	font-family: "Lato";
+	font-weight: 700;
+	position: relative;
+	left: 41px;
+	top: 43px;
+}
+.list li{
+	display: inline;
+	font-size: 12px;
+	line-height: 6px;
+	color: #ffffff;
+	font-family: "Lato";
+	font-weight: 700; 
+}
+.list{
+	position: relative;
+	top: -31px;
+	left: 528px;
+}
+#tochka{
+	font-size: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+	color: grey;
+}
+#home{
+	color: #f06c64;
+}
+.services{
+	font-size: 31px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+	font-weight: 900;
+	text-align: left;
+	position: relative;
+	left: 39px;
+	top: 65px;
+}
+.opis{
+	width: 1020px;
+    height: 23;
+ 	margin-right: auto;
+    margin-left: auto;
+	font-size: 18px;
+	line-height: 30px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 300;
+	position: relative;
+	left: 41px;
+	top: 95px;
+}
+.table{
+	position: relative;
+	left: 40px;
+	top: 85px;
+}
+.pen{
+	position: relative;
+	top: 57px;
+	padding-right: 3px;
+	padding-bottom: 10px;
+}
+.obodin{
+	position: relative;
+	top: 55px;
+	left: 22px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.odin{
+	position: relative;
+	top: 57px;
+	left: 22px;
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+
+}
+.bulb{
+	position: relative;
+	top: -10px;
+	padding-right: 28px;
+	padding-bottom: 14px;
+	padding-right: 14px;
+}
+.obdva{
+	position: relative;
+	top: -10px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.dva{
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+}
+.obdva,.dva,.bulb{
+	position: relative;
+	top: -109px;
+    left: 320px;
+}
+.heart{
+	padding-right: 28px;
+	padding-bottom: 14px;
+	padding-right: 14px;
+}
+.obtree{
+	position: relative;
+	top: -10px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.tree{
+	position: relative;
+	top: -20px;
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+}
+.heart,.tree,.obtree{
+	position: relative;
+	top: -273px;
+    left: 635px;
+}
+.phone{
+	padding-right: 28px;
+	padding-bottom: 14px;
+}
+.obchetiri{
+	position: relative;
+	top: -10px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.chetiri{
+	position: relative;
+	top: -20px;
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+}
+.phone,.chetiri,.obchetiri{
+	position: relative;
+	top: -330px;
+    left: 0px;
+}
+.bubble{
+	padding-right: 28px;
+	padding-bottom: 14px;
+}
+.obpyat{
+	position: relative;
+	top: -10px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.pyat{
+	position: relative;
+	top: -20px;
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+}
+.bubble,.pyat,.obpyat{
+	position: relative;
+	top: -490px;
+    left: 320px;
+}
+.star{
+	padding-right: 14px;
+	padding-bottom: 14px;
+}
+.obshest{
+	position: relative;
+	top: -10px;
+	font-size: 22px;
+	line-height: 18px;
+	color: #666d89;
+	font-family: "Lato";
+}
+.shest{
+	position: relative;
+	top: -20px;
+	height: 128px;
+	font-size: 12px;
+	color: #767e9e;
+	font-family: "Lato";
+	font-weight: 400;
+}
+.star,.shest,.obshest{
+	position: relative;
+	top: -650px;
+    left: 635px;
+}
+.base{ 
+	width: 200px;
+	height: 400px;
+	box-shadow: 10px 10px 15px 10px black;
+	position: relative;
+	top: 80px;
+    left: 150px; 
+}
+.basedva{
+	width: 400px;
+	height: 200px;
+	box-shadow: 10px 10px 15px 10px black;
+	position: relative;
+	top: -50px;
+    left: 250px; 
+}
+.strelka{
+	position: relative;
+	top: -80px;
+	left: 30px;
+}
+.strelka2{
+	position: relative;
+	top: -80px;
+	left: 320px;
+}
