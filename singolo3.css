@@ -1,0 +1,123 @@
+.bg{
+	width: 1020px;
+ 	height: 730px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+}
+.bg1{
+	width: 1020px;
+	height: 648px;
+	background-color: #f06c64;
+}
+.bg10{
+	width: 1020px;
+	height: 6px;
+	background-color: #ea676b;
+}
+.bg2{
+	width: 1020px;
+ 	height: 76px;
+	background-color: #2d303a;
+}
+.get{
+	position: relative;
+	top: 65px;
+	left: 40px;
+	font-size: 30px;
+	line-height: 18px;
+	color: #f0d8d9;
+	font-family: "Lato";
+	font-weight: 900;
+	text-align: left;
+}
+.fus{
+	width: 940px;
+	height: 57px;
+	font-size: 18px;
+	line-height: 30px;
+	color: #f0d8d9;
+	font-family: "Lato";	
+	font-weight: 300;
+	text-align: left;
+	position: relative;
+	top: 95px;
+	left: 40px;
+}
+.name{
+	position: relative;
+	top: 140px;
+	left: 40px;
+	width: 615px;
+	height: 35px;
+	border-radius: 5px;
+	background-color: #d6564f;
+}
+.subject{
+	position: relative;
+	top: 168px;
+	left: 40px;
+	width: 615px;
+	height: 35px;
+	border-radius: 5px;
+	background-color: #d6564f;
+}
+.email{
+	position: relative;
+	top: 155px;
+	left: 40px;
+	width: 615px;
+	height: 35px;
+	border-radius: 5px;
+	background-color: #d6564f;
+}
+.description{
+	width: 619px;
+	height: 202px;
+	border-radius: 5px;
+	background-color: #d6564f;
+	position: relative;
+	top: 180px;
+	left: 40px;
+	resize: none;
+}
+img{
+	position: relative;
+	top: -20px;
+	margin: 20px;
+}
+.send{
+	position: relative;
+	top: 215px;
+	left: -100px;
+}
+.cop{
+	width: 118px; 
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+.cop:hover{
+	color: white;
+}
+.con{
+	font-size: 18px;
+	line-height: 18px;
+	color: #f0d8d9;
+	font-family: "Lato";
+	font-weight: 900;
+	text-align: left;
+	position: relative;
+	top: -190px;
+	left: 700px;
+}
+.te{
+	width: 300px;
+	height: 175px;
+	font-size: 16px;
+	line-height: 22px;
+	color: #f0d8d9;
+	font-family: "Lato";
+	font-weight: 400;
+	text-align: left;
+}
